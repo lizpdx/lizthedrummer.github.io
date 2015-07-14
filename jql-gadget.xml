@@ -2,7 +2,7 @@
 <Module>
   <ModulePrefs title="JQL Gadget"
   description="This gadget pulls content from an arbitrary JIRA JQL Query and displays the results in the gadget window"
-  author="Liz Savage" 
+  author="Liz Savage">
     <Optional feature="gadget-directory">
       <Param name="categories">Other</Param>
     </Optional>
