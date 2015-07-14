@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-  <ModulePrefs title="My Gadget Title"
-  description="My Gadget Description" 
-  author="My Name" 
-  author_email="my-email-address@example.com">
+  <ModulePrefs title="JQL Gadget"
+  description="This gadget pulls content from an arbitrary JIRA JQL Query and displays the results in the gadget window"
+  author="Liz Savage" 
     <Optional feature="gadget-directory">
       <Param name="categories">Other</Param>
     </Optional>
